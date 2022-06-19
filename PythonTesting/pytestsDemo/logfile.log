@@ -1,0 +1,12 @@
+2022-06-17 20:02:44,697 :INFO : pytestsDemo.test_logging :Information statement
+2022-06-17 20:02:44,698 :WARNING : pytestsDemo.test_logging :Something is in warning mode
+2022-06-17 20:02:44,698 :ERROR : pytestsDemo.test_logging :A Major error has happend
+2022-06-17 20:02:44,698 :CRITICAL : pytestsDemo.test_logging :Critical issue
+2022-06-17 20:04:08,422 :DEBUG : pytestsDemo.test_logging :A debug statement is executed
+2022-06-17 20:04:08,423 :INFO : pytestsDemo.test_logging :Information statement
+2022-06-17 20:04:08,423 :WARNING : pytestsDemo.test_logging :Something is in warning mode
+2022-06-17 20:04:08,423 :ERROR : pytestsDemo.test_logging :A Major error has happend
+2022-06-17 20:04:08,423 :CRITICAL : pytestsDemo.test_logging :Critical issue
+2022-06-17 20:10:59,231 :INFO : pytestsDemo.BaseClass :Rahul
+2022-06-17 20:13:46,476 :INFO : pytestsDemo.BaseClass :Rahul
+2022-06-17 20:14:53,115 :INFO : pytestsDemo.BaseClass :Rahul
